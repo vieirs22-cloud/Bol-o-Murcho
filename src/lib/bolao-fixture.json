@@ -1,0 +1,1435 @@
+{
+  "source": "Placares.xlsx",
+  "sourceSheet": "Placares",
+  "generatedAt": "2026-05-13T19:25:52",
+  "teams": [
+    {
+      "id": "mexico",
+      "name": "México",
+      "code": "MX",
+      "flagEmoji": "",
+      "flagAsset": "/flags/mx.svg",
+      "group": "A"
+    },
+    {
+      "id": "africa-do-sul",
+      "name": "África do Sul",
+      "code": "ZA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/za.svg",
+      "group": "A"
+    },
+    {
+      "id": "coreia-do-sul",
+      "name": "Coreia do Sul",
+      "code": "KR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/kr.svg",
+      "group": "A"
+    },
+    {
+      "id": "tchequia",
+      "name": "Tchéquia",
+      "code": "CZ",
+      "flagEmoji": "",
+      "flagAsset": "/flags/cz.svg",
+      "group": "A"
+    },
+    {
+      "id": "canada",
+      "name": "Canadá",
+      "code": "CA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ca.svg",
+      "group": "B"
+    },
+    {
+      "id": "bosnia-herzegovina",
+      "name": "Bósnia-Herzegovina",
+      "code": "BA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ba.svg",
+      "group": "B"
+    },
+    {
+      "id": "catar",
+      "name": "Catar",
+      "code": "QA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/qa.svg",
+      "group": "B"
+    },
+    {
+      "id": "suica",
+      "name": "Suíça",
+      "code": "CH",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ch.svg",
+      "group": "B"
+    },
+    {
+      "id": "brasil",
+      "name": "Brasil",
+      "code": "BR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/br.svg",
+      "group": "C"
+    },
+    {
+      "id": "marrocos",
+      "name": "Marrocos",
+      "code": "MA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ma.svg",
+      "group": "C"
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "code": "HT",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ht.svg",
+      "group": "C"
+    },
+    {
+      "id": "escocia",
+      "name": "Escócia",
+      "code": "GB-SCT",
+      "flagEmoji": "",
+      "flagAsset": "/flags/gb-sct.svg",
+      "group": "C"
+    },
+    {
+      "id": "estados-unidos",
+      "name": "Estados Unidos",
+      "code": "US",
+      "flagEmoji": "",
+      "flagAsset": "/flags/us.svg",
+      "group": "D"
+    },
+    {
+      "id": "paraguai",
+      "name": "Paraguai",
+      "code": "PY",
+      "flagEmoji": "",
+      "flagAsset": "/flags/py.svg",
+      "group": "D"
+    },
+    {
+      "id": "australia",
+      "name": "Austrália",
+      "code": "AU",
+      "flagEmoji": "",
+      "flagAsset": "/flags/au.svg",
+      "group": "D"
+    },
+    {
+      "id": "turquia",
+      "name": "Turquia",
+      "code": "TR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/tr.svg",
+      "group": "D"
+    },
+    {
+      "id": "alemanha",
+      "name": "Alemanha",
+      "code": "DE",
+      "flagEmoji": "",
+      "flagAsset": "/flags/de.svg",
+      "group": "E"
+    },
+    {
+      "id": "curacao",
+      "name": "Curaçao",
+      "code": "CW",
+      "flagEmoji": "",
+      "flagAsset": "/flags/cw.svg",
+      "group": "E"
+    },
+    {
+      "id": "costa-do-marfim",
+      "name": "Costa do Marfim",
+      "code": "CI",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ci.svg",
+      "group": "E"
+    },
+    {
+      "id": "equador",
+      "name": "Equador",
+      "code": "EC",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ec.svg",
+      "group": "E"
+    },
+    {
+      "id": "holanda",
+      "name": "Holanda",
+      "code": "NL",
+      "flagEmoji": "",
+      "flagAsset": "/flags/nl.svg",
+      "group": "F"
+    },
+    {
+      "id": "japao",
+      "name": "Japão",
+      "code": "JP",
+      "flagEmoji": "",
+      "flagAsset": "/flags/jp.svg",
+      "group": "F"
+    },
+    {
+      "id": "suecia",
+      "name": "Suécia",
+      "code": "SE",
+      "flagEmoji": "",
+      "flagAsset": "/flags/se.svg",
+      "group": "F"
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunísia",
+      "code": "TN",
+      "flagEmoji": "",
+      "flagAsset": "/flags/tn.svg",
+      "group": "F"
+    },
+    {
+      "id": "belgica",
+      "name": "Bélgica",
+      "code": "BE",
+      "flagEmoji": "",
+      "flagAsset": "/flags/be.svg",
+      "group": "G"
+    },
+    {
+      "id": "egito",
+      "name": "Egito",
+      "code": "EG",
+      "flagEmoji": "",
+      "flagAsset": "/flags/eg.svg",
+      "group": "G"
+    },
+    {
+      "id": "ira",
+      "name": "Irã",
+      "code": "IR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ir.svg",
+      "group": "G"
+    },
+    {
+      "id": "nova-zelandia",
+      "name": "Nova Zelândia",
+      "code": "NZ",
+      "flagEmoji": "",
+      "flagAsset": "/flags/nz.svg",
+      "group": "G"
+    },
+    {
+      "id": "espanha",
+      "name": "Espanha",
+      "code": "ES",
+      "flagEmoji": "",
+      "flagAsset": "/flags/es.svg",
+      "group": "H"
+    },
+    {
+      "id": "cabo-verde",
+      "name": "Cabo Verde",
+      "code": "CV",
+      "flagEmoji": "",
+      "flagAsset": "/flags/cv.svg",
+      "group": "H"
+    },
+    {
+      "id": "arabia-saudita",
+      "name": "Arábia Saudita",
+      "code": "SA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/sa.svg",
+      "group": "H"
+    },
+    {
+      "id": "uruguai",
+      "name": "Uruguai",
+      "code": "UY",
+      "flagEmoji": "",
+      "flagAsset": "/flags/uy.svg",
+      "group": "H"
+    },
+    {
+      "id": "franca",
+      "name": "França",
+      "code": "FR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/fr.svg",
+      "group": "I"
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "code": "SN",
+      "flagEmoji": "",
+      "flagAsset": "/flags/sn.svg",
+      "group": "I"
+    },
+    {
+      "id": "iraque",
+      "name": "Iraque",
+      "code": "IQ",
+      "flagEmoji": "",
+      "flagAsset": "/flags/iq.svg",
+      "group": "I"
+    },
+    {
+      "id": "noruega",
+      "name": "Noruega",
+      "code": "NO",
+      "flagEmoji": "",
+      "flagAsset": "/flags/no.svg",
+      "group": "I"
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "code": "AR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/ar.svg",
+      "group": "J"
+    },
+    {
+      "id": "argelia",
+      "name": "Argélia",
+      "code": "DZ",
+      "flagEmoji": "",
+      "flagAsset": "/flags/dz.svg",
+      "group": "J"
+    },
+    {
+      "id": "austria",
+      "name": "Áustria",
+      "code": "AT",
+      "flagEmoji": "",
+      "flagAsset": "/flags/at.svg",
+      "group": "J"
+    },
+    {
+      "id": "jordania",
+      "name": "Jordânia",
+      "code": "JO",
+      "flagEmoji": "",
+      "flagAsset": "/flags/jo.svg",
+      "group": "J"
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "code": "PT",
+      "flagEmoji": "",
+      "flagAsset": "/flags/pt.svg",
+      "group": "K"
+    },
+    {
+      "id": "rd-congo",
+      "name": "RD Congo",
+      "code": "CD",
+      "flagEmoji": "",
+      "flagAsset": "/flags/cd.svg",
+      "group": "K"
+    },
+    {
+      "id": "uzbequistao",
+      "name": "Uzbequistão",
+      "code": "UZ",
+      "flagEmoji": "",
+      "flagAsset": "/flags/uz.svg",
+      "group": "K"
+    },
+    {
+      "id": "colombia",
+      "name": "Colômbia",
+      "code": "CO",
+      "flagEmoji": "",
+      "flagAsset": "/flags/co.svg",
+      "group": "K"
+    },
+    {
+      "id": "inglaterra",
+      "name": "Inglaterra",
+      "code": "GB-ENG",
+      "flagEmoji": "",
+      "flagAsset": "/flags/gb-eng.svg",
+      "group": "L"
+    },
+    {
+      "id": "croacia",
+      "name": "Croácia",
+      "code": "HR",
+      "flagEmoji": "",
+      "flagAsset": "/flags/hr.svg",
+      "group": "L"
+    },
+    {
+      "id": "gana",
+      "name": "Gana",
+      "code": "GH",
+      "flagEmoji": "",
+      "flagAsset": "/flags/gh.svg",
+      "group": "L"
+    },
+    {
+      "id": "panama",
+      "name": "Panamá",
+      "code": "PA",
+      "flagEmoji": "",
+      "flagAsset": "/flags/pa.svg",
+      "group": "L"
+    }
+  ],
+  "groupMatches": [
+    {
+      "id": "jogo-1",
+      "sourceId": 1,
+      "group": "A",
+      "round": 1,
+      "homeTeamId": "mexico",
+      "awayTeamId": "africa-do-sul",
+      "startsAt": "2026-06-11T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-2",
+      "sourceId": 2,
+      "group": "A",
+      "round": 1,
+      "homeTeamId": "coreia-do-sul",
+      "awayTeamId": "tchequia",
+      "startsAt": "2026-06-11T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-3",
+      "sourceId": 3,
+      "group": "A",
+      "round": 2,
+      "homeTeamId": "tchequia",
+      "awayTeamId": "africa-do-sul",
+      "startsAt": "2026-06-18T13:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-4",
+      "sourceId": 4,
+      "group": "A",
+      "round": 2,
+      "homeTeamId": "mexico",
+      "awayTeamId": "coreia-do-sul",
+      "startsAt": "2026-06-18T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-5",
+      "sourceId": 5,
+      "group": "A",
+      "round": 3,
+      "homeTeamId": "tchequia",
+      "awayTeamId": "mexico",
+      "startsAt": "2026-06-24T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-6",
+      "sourceId": 6,
+      "group": "A",
+      "round": 3,
+      "homeTeamId": "africa-do-sul",
+      "awayTeamId": "coreia-do-sul",
+      "startsAt": "2026-06-24T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-7",
+      "sourceId": 7,
+      "group": "B",
+      "round": 1,
+      "homeTeamId": "canada",
+      "awayTeamId": "bosnia-herzegovina",
+      "startsAt": "2026-06-12T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-8",
+      "sourceId": 8,
+      "group": "B",
+      "round": 1,
+      "homeTeamId": "catar",
+      "awayTeamId": "suica",
+      "startsAt": "2026-06-13T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-9",
+      "sourceId": 9,
+      "group": "B",
+      "round": 2,
+      "homeTeamId": "suica",
+      "awayTeamId": "bosnia-herzegovina",
+      "startsAt": "2026-06-18T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-10",
+      "sourceId": 10,
+      "group": "B",
+      "round": 2,
+      "homeTeamId": "canada",
+      "awayTeamId": "catar",
+      "startsAt": "2026-06-18T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-11",
+      "sourceId": 11,
+      "group": "B",
+      "round": 3,
+      "homeTeamId": "suica",
+      "awayTeamId": "canada",
+      "startsAt": "2026-06-24T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-12",
+      "sourceId": 12,
+      "group": "B",
+      "round": 3,
+      "homeTeamId": "bosnia-herzegovina",
+      "awayTeamId": "catar",
+      "startsAt": "2026-06-24T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-13",
+      "sourceId": 13,
+      "group": "C",
+      "round": 1,
+      "homeTeamId": "brasil",
+      "awayTeamId": "marrocos",
+      "startsAt": "2026-06-13T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-14",
+      "sourceId": 14,
+      "group": "C",
+      "round": 1,
+      "homeTeamId": "haiti",
+      "awayTeamId": "escocia",
+      "startsAt": "2026-06-13T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-15",
+      "sourceId": 15,
+      "group": "C",
+      "round": 2,
+      "homeTeamId": "escocia",
+      "awayTeamId": "marrocos",
+      "startsAt": "2026-06-19T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-16",
+      "sourceId": 16,
+      "group": "C",
+      "round": 2,
+      "homeTeamId": "brasil",
+      "awayTeamId": "haiti",
+      "startsAt": "2026-06-19T21:30:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-17",
+      "sourceId": 17,
+      "group": "C",
+      "round": 3,
+      "homeTeamId": "escocia",
+      "awayTeamId": "brasil",
+      "startsAt": "2026-06-24T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-18",
+      "sourceId": 18,
+      "group": "C",
+      "round": 3,
+      "homeTeamId": "marrocos",
+      "awayTeamId": "haiti",
+      "startsAt": "2026-06-24T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-19",
+      "sourceId": 19,
+      "group": "D",
+      "round": 1,
+      "homeTeamId": "estados-unidos",
+      "awayTeamId": "paraguai",
+      "startsAt": "2026-06-12T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-20",
+      "sourceId": 20,
+      "group": "D",
+      "round": 1,
+      "homeTeamId": "australia",
+      "awayTeamId": "turquia",
+      "startsAt": "2026-06-14T01:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-21",
+      "sourceId": 21,
+      "group": "D",
+      "round": 2,
+      "homeTeamId": "estados-unidos",
+      "awayTeamId": "australia",
+      "startsAt": "2026-06-19T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-22",
+      "sourceId": 22,
+      "group": "D",
+      "round": 2,
+      "homeTeamId": "turquia",
+      "awayTeamId": "paraguai",
+      "startsAt": "2026-06-20T00:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-23",
+      "sourceId": 23,
+      "group": "D",
+      "round": 3,
+      "homeTeamId": "paraguai",
+      "awayTeamId": "australia",
+      "startsAt": "2026-06-25T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-24",
+      "sourceId": 24,
+      "group": "D",
+      "round": 3,
+      "homeTeamId": "turquia",
+      "awayTeamId": "estados-unidos",
+      "startsAt": "2026-06-25T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-25",
+      "sourceId": 25,
+      "group": "E",
+      "round": 1,
+      "homeTeamId": "alemanha",
+      "awayTeamId": "curacao",
+      "startsAt": "2026-06-14T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-26",
+      "sourceId": 26,
+      "group": "E",
+      "round": 1,
+      "homeTeamId": "costa-do-marfim",
+      "awayTeamId": "equador",
+      "startsAt": "2026-06-14T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-27",
+      "sourceId": 27,
+      "group": "E",
+      "round": 2,
+      "homeTeamId": "alemanha",
+      "awayTeamId": "costa-do-marfim",
+      "startsAt": "2026-06-20T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-28",
+      "sourceId": 28,
+      "group": "E",
+      "round": 2,
+      "homeTeamId": "equador",
+      "awayTeamId": "curacao",
+      "startsAt": "2026-06-20T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-29",
+      "sourceId": 29,
+      "group": "E",
+      "round": 3,
+      "homeTeamId": "equador",
+      "awayTeamId": "alemanha",
+      "startsAt": "2026-06-25T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-30",
+      "sourceId": 30,
+      "group": "E",
+      "round": 3,
+      "homeTeamId": "curacao",
+      "awayTeamId": "costa-do-marfim",
+      "startsAt": "2026-06-25T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-31",
+      "sourceId": 31,
+      "group": "F",
+      "round": 1,
+      "homeTeamId": "holanda",
+      "awayTeamId": "japao",
+      "startsAt": "2026-06-14T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-32",
+      "sourceId": 32,
+      "group": "F",
+      "round": 1,
+      "homeTeamId": "suecia",
+      "awayTeamId": "tunisia",
+      "startsAt": "2026-06-14T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-33",
+      "sourceId": 33,
+      "group": "F",
+      "round": 2,
+      "homeTeamId": "holanda",
+      "awayTeamId": "suecia",
+      "startsAt": "2026-06-20T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-34",
+      "sourceId": 34,
+      "group": "F",
+      "round": 2,
+      "homeTeamId": "tunisia",
+      "awayTeamId": "japao",
+      "startsAt": "2026-06-21T01:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-35",
+      "sourceId": 35,
+      "group": "F",
+      "round": 3,
+      "homeTeamId": "tunisia",
+      "awayTeamId": "holanda",
+      "startsAt": "2026-06-25T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-36",
+      "sourceId": 36,
+      "group": "F",
+      "round": 3,
+      "homeTeamId": "japao",
+      "awayTeamId": "suecia",
+      "startsAt": "2026-06-25T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-37",
+      "sourceId": 37,
+      "group": "G",
+      "round": 1,
+      "homeTeamId": "belgica",
+      "awayTeamId": "egito",
+      "startsAt": "2026-06-15T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-38",
+      "sourceId": 38,
+      "group": "G",
+      "round": 1,
+      "homeTeamId": "ira",
+      "awayTeamId": "nova-zelandia",
+      "startsAt": "2026-06-15T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-39",
+      "sourceId": 39,
+      "group": "G",
+      "round": 2,
+      "homeTeamId": "belgica",
+      "awayTeamId": "ira",
+      "startsAt": "2026-06-21T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-40",
+      "sourceId": 40,
+      "group": "G",
+      "round": 2,
+      "homeTeamId": "nova-zelandia",
+      "awayTeamId": "egito",
+      "startsAt": "2026-06-21T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-41",
+      "sourceId": 41,
+      "group": "G",
+      "round": 3,
+      "homeTeamId": "egito",
+      "awayTeamId": "ira",
+      "startsAt": "2026-06-27T00:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-42",
+      "sourceId": 42,
+      "group": "G",
+      "round": 3,
+      "homeTeamId": "nova-zelandia",
+      "awayTeamId": "belgica",
+      "startsAt": "2026-06-27T00:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-43",
+      "sourceId": 43,
+      "group": "H",
+      "round": 1,
+      "homeTeamId": "espanha",
+      "awayTeamId": "cabo-verde",
+      "startsAt": "2026-06-15T13:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-44",
+      "sourceId": 44,
+      "group": "H",
+      "round": 1,
+      "homeTeamId": "arabia-saudita",
+      "awayTeamId": "uruguai",
+      "startsAt": "2026-06-15T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-45",
+      "sourceId": 45,
+      "group": "H",
+      "round": 2,
+      "homeTeamId": "espanha",
+      "awayTeamId": "arabia-saudita",
+      "startsAt": "2026-06-21T13:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-46",
+      "sourceId": 46,
+      "group": "H",
+      "round": 2,
+      "homeTeamId": "uruguai",
+      "awayTeamId": "cabo-verde",
+      "startsAt": "2026-06-21T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-47",
+      "sourceId": 47,
+      "group": "H",
+      "round": 3,
+      "homeTeamId": "uruguai",
+      "awayTeamId": "espanha",
+      "startsAt": "2026-06-26T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-48",
+      "sourceId": 48,
+      "group": "H",
+      "round": 3,
+      "homeTeamId": "cabo-verde",
+      "awayTeamId": "arabia-saudita",
+      "startsAt": "2026-06-26T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-49",
+      "sourceId": 49,
+      "group": "I",
+      "round": 1,
+      "homeTeamId": "franca",
+      "awayTeamId": "senegal",
+      "startsAt": "2026-06-16T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-50",
+      "sourceId": 50,
+      "group": "I",
+      "round": 1,
+      "homeTeamId": "iraque",
+      "awayTeamId": "noruega",
+      "startsAt": "2026-06-16T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-51",
+      "sourceId": 51,
+      "group": "I",
+      "round": 2,
+      "homeTeamId": "franca",
+      "awayTeamId": "iraque",
+      "startsAt": "2026-06-22T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-52",
+      "sourceId": 52,
+      "group": "I",
+      "round": 2,
+      "homeTeamId": "noruega",
+      "awayTeamId": "senegal",
+      "startsAt": "2026-06-22T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-53",
+      "sourceId": 53,
+      "group": "I",
+      "round": 3,
+      "homeTeamId": "noruega",
+      "awayTeamId": "franca",
+      "startsAt": "2026-06-26T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-54",
+      "sourceId": 54,
+      "group": "I",
+      "round": 3,
+      "homeTeamId": "senegal",
+      "awayTeamId": "iraque",
+      "startsAt": "2026-06-26T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-55",
+      "sourceId": 55,
+      "group": "J",
+      "round": 1,
+      "homeTeamId": "argentina",
+      "awayTeamId": "argelia",
+      "startsAt": "2026-06-16T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-56",
+      "sourceId": 56,
+      "group": "J",
+      "round": 1,
+      "homeTeamId": "austria",
+      "awayTeamId": "jordania",
+      "startsAt": "2026-06-17T01:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-57",
+      "sourceId": 57,
+      "group": "J",
+      "round": 2,
+      "homeTeamId": "argentina",
+      "awayTeamId": "austria",
+      "startsAt": "2026-06-22T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-58",
+      "sourceId": 58,
+      "group": "J",
+      "round": 2,
+      "homeTeamId": "jordania",
+      "awayTeamId": "argelia",
+      "startsAt": "2026-06-23T00:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-59",
+      "sourceId": 59,
+      "group": "J",
+      "round": 3,
+      "homeTeamId": "jordania",
+      "awayTeamId": "argentina",
+      "startsAt": "2026-06-27T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-60",
+      "sourceId": 60,
+      "group": "J",
+      "round": 3,
+      "homeTeamId": "argelia",
+      "awayTeamId": "austria",
+      "startsAt": "2026-06-27T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-61",
+      "sourceId": 61,
+      "group": "K",
+      "round": 1,
+      "homeTeamId": "portugal",
+      "awayTeamId": "rd-congo",
+      "startsAt": "2026-06-17T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-62",
+      "sourceId": 62,
+      "group": "K",
+      "round": 1,
+      "homeTeamId": "uzbequistao",
+      "awayTeamId": "colombia",
+      "startsAt": "2026-06-17T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-63",
+      "sourceId": 63,
+      "group": "K",
+      "round": 2,
+      "homeTeamId": "portugal",
+      "awayTeamId": "uzbequistao",
+      "startsAt": "2026-06-23T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-64",
+      "sourceId": 64,
+      "group": "K",
+      "round": 2,
+      "homeTeamId": "colombia",
+      "awayTeamId": "rd-congo",
+      "startsAt": "2026-06-23T23:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-65",
+      "sourceId": 65,
+      "group": "K",
+      "round": 3,
+      "homeTeamId": "colombia",
+      "awayTeamId": "portugal",
+      "startsAt": "2026-06-27T20:30:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-66",
+      "sourceId": 66,
+      "group": "K",
+      "round": 3,
+      "homeTeamId": "rd-congo",
+      "awayTeamId": "uzbequistao",
+      "startsAt": "2026-06-27T20:30:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-67",
+      "sourceId": 67,
+      "group": "L",
+      "round": 1,
+      "homeTeamId": "inglaterra",
+      "awayTeamId": "croacia",
+      "startsAt": "2026-06-17T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-68",
+      "sourceId": 68,
+      "group": "L",
+      "round": 1,
+      "homeTeamId": "gana",
+      "awayTeamId": "panama",
+      "startsAt": "2026-06-17T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-69",
+      "sourceId": 69,
+      "group": "L",
+      "round": 2,
+      "homeTeamId": "inglaterra",
+      "awayTeamId": "gana",
+      "startsAt": "2026-06-23T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-70",
+      "sourceId": 70,
+      "group": "L",
+      "round": 2,
+      "homeTeamId": "panama",
+      "awayTeamId": "croacia",
+      "startsAt": "2026-06-23T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-71",
+      "sourceId": 71,
+      "group": "L",
+      "round": 3,
+      "homeTeamId": "panama",
+      "awayTeamId": "inglaterra",
+      "startsAt": "2026-06-27T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-72",
+      "sourceId": 72,
+      "group": "L",
+      "round": 3,
+      "homeTeamId": "croacia",
+      "awayTeamId": "gana",
+      "startsAt": "2026-06-27T18:00:00-03:00",
+      "status": "scheduled"
+    }
+  ],
+  "knockoutMatches": [
+    {
+      "id": "jogo-73",
+      "sourceId": 73,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "2A",
+      "awaySlot": "2B",
+      "startsAt": "2026-06-28T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-74",
+      "sourceId": 74,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1C",
+      "awaySlot": "2F",
+      "startsAt": "2026-06-29T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-75",
+      "sourceId": 75,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1E",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-06-29T17:30:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-76",
+      "sourceId": 76,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1F",
+      "awaySlot": "2C",
+      "startsAt": "2026-06-29T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-77",
+      "sourceId": 77,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "2E",
+      "awaySlot": "2I",
+      "startsAt": "2026-06-30T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-78",
+      "sourceId": 78,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1I",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-06-30T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-79",
+      "sourceId": 79,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1A",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-06-30T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-80",
+      "sourceId": 80,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1L",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-07-01T13:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-81",
+      "sourceId": 81,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1G",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-07-01T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-82",
+      "sourceId": 82,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1D",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-07-01T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-83",
+      "sourceId": 83,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1H",
+      "awaySlot": "2J",
+      "startsAt": "2026-07-02T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-84",
+      "sourceId": 84,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "2K",
+      "awaySlot": "2L",
+      "startsAt": "2026-07-02T20:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-85",
+      "sourceId": 85,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1B",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-07-03T00:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-86",
+      "sourceId": 86,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "2D",
+      "awaySlot": "2G",
+      "startsAt": "2026-07-03T15:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-87",
+      "sourceId": 87,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1J",
+      "awaySlot": "2H",
+      "startsAt": "2026-07-03T19:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-88",
+      "sourceId": 88,
+      "stage": "round_of_32",
+      "round": 1,
+      "homeSlot": "1K",
+      "awaySlot": "Melhor 3º",
+      "startsAt": "2026-07-03T22:30:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-89",
+      "sourceId": 89,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V73",
+      "awaySlot": "V75",
+      "startsAt": "2026-07-04T14:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-90",
+      "sourceId": 90,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V74",
+      "awaySlot": "V77",
+      "startsAt": "2026-07-04T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-91",
+      "sourceId": 91,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V76",
+      "awaySlot": "V78",
+      "startsAt": "2026-07-05T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-92",
+      "sourceId": 92,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V79",
+      "awaySlot": "V80",
+      "startsAt": "2026-07-05T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-93",
+      "sourceId": 93,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V83",
+      "awaySlot": "V84",
+      "startsAt": "2026-07-06T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-94",
+      "sourceId": 94,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V81",
+      "awaySlot": "V82",
+      "startsAt": "2026-07-06T21:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-95",
+      "sourceId": 95,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V86",
+      "awaySlot": "V88",
+      "startsAt": "2026-07-07T13:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-96",
+      "sourceId": 96,
+      "stage": "round_of_16",
+      "round": 1,
+      "homeSlot": "V85",
+      "awaySlot": "V87",
+      "startsAt": "2026-07-07T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-97",
+      "sourceId": 97,
+      "stage": "quarter_finals",
+      "round": 1,
+      "homeSlot": "V89",
+      "awaySlot": "V90",
+      "startsAt": "2026-07-09T17:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-98",
+      "sourceId": 98,
+      "stage": "quarter_finals",
+      "round": 1,
+      "homeSlot": "V93",
+      "awaySlot": "V94",
+      "startsAt": "2026-07-10T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-99",
+      "sourceId": 99,
+      "stage": "quarter_finals",
+      "round": 1,
+      "homeSlot": "V91",
+      "awaySlot": "V92",
+      "startsAt": "2026-07-11T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-100",
+      "sourceId": 100,
+      "stage": "quarter_finals",
+      "round": 1,
+      "homeSlot": "V95",
+      "awaySlot": "V96",
+      "startsAt": "2026-07-11T22:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-101",
+      "sourceId": 101,
+      "stage": "semi_finals",
+      "round": 1,
+      "homeSlot": "V97",
+      "awaySlot": "V98",
+      "startsAt": "2026-07-14T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-102",
+      "sourceId": 102,
+      "stage": "semi_finals",
+      "round": 1,
+      "homeSlot": "V99",
+      "awaySlot": "V100",
+      "startsAt": "2026-07-15T16:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-103",
+      "sourceId": 103,
+      "stage": "third_place",
+      "round": 1,
+      "homeSlot": "P101",
+      "awaySlot": "P102",
+      "startsAt": "2026-07-18T18:00:00-03:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "jogo-104",
+      "sourceId": 104,
+      "stage": "final",
+      "round": 1,
+      "homeSlot": "V101",
+      "awaySlot": "V102",
+      "startsAt": "2026-07-19T16:00:00-03:00",
+      "status": "scheduled"
+    }
+  ]
+}
